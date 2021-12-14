@@ -1,0 +1,8 @@
+ls listar
+clear limpar tela
+download de projeto: git clone  "linkdo gitub"
+ver se tem alguma pendência: git status
+adicionar arquivo ao git: git add
+adicionar a atualização ao repositório do github: git commit -m "anotaçÕes...."
+
+
