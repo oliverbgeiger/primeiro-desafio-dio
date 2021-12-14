@@ -1,0 +1,7 @@
+Listas
+Pilhas
+Filas
+
+Arvores
+Tabelas hash
+Grafos
