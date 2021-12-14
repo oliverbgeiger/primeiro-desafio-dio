@@ -3,6 +3,6 @@ clear limpar tela
 download de projeto: git clone  "linkdo gitub"
 ver se tem alguma pendência: git status
 adicionar arquivo ao git: git add
-adicionar a atualização ao repositório do github: git commit -m "anotaçÕes...."
-
+realizar commit: git commit -m "anotaçÕes...."
+enviar para o git hub: git push origin main
 
